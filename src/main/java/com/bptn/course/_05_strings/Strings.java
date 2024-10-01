@@ -57,7 +57,7 @@ public class Strings {
 //		System.out.println(userName.trim());// takes out extra spaces on both ends but not in between helpful for scanner inputs
 //		System.out.println(userName.indexOf('r'));//Returns the index within this string of the first occurrence ofthe specified character
 		
-// writes a program that takes a strin as input and counts the number of vowels and consonants inthe string
+// writes a program that takes a string as input and counts the number of vowels and consonants inthe string
 		// consider both uppercase and lowercase letters
 		//input: strings entered by user and ouput: the number of vowles and consonant
 		
